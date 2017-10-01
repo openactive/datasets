@@ -1,5 +1,29 @@
 [
  {
+  "dataset-site-url": "http://data.activenewham.org.uk/",
+  "title": "activeNewham Sessions",
+  "description": "Session data from the activenewham.org.uk site",
+  "publisher-name": "activeNewham",
+  "publisher-url": "https://www.activenewham.org.uk",
+  "keyword-1": "Newham",
+  "keyword-2": "Leisure",
+  "data-url": "https://activenewham-openactive.herokuapp.com",
+  "created": "2017-02-17",
+  "documentation-url": "https://github.com/activenewham/opendata",
+  "rpde-version": "0.2.3",
+  "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
+  "license-url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-text": "activeNewham",
+  "attribution-url": "http://data.activenewham.org.uk/",
+  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us15.list-manage.com\",\"uuid\":\"139e08e5077eeef9048052685\",\"lid\":\"5eb5e5184a\"}) })",
+  "copyright-notice": "",
+  "odi-certificate-number": "",
+  "publish": true,
+  "example-url": [
+   "https://imin-ltd.github.io/gladstone-adapter-documentation/example.json"
+  ]
+ },
+ {
   "dataset-site-url": "https://makesweat.github.io/",
   "title": "All Makesweat sessions",
   "description": "Session data from makesweat.com",
@@ -210,6 +234,27 @@
   "publish": true
  },
  {
+  "dataset-site-url": "https://leisureworldcolchester.github.io/",
+  "title": "Leisure World Colchester Sessions",
+  "description": "Session data from Leisure World Colchester",
+  "publisher-name": "Leisure World Colchester",
+  "publisher-url": "https://www.colchesterleisureworld.co.uk",
+  "keyword-1": "",
+  "keyword-2": "",
+  "data-url": "https://lw-colchester-openactive.herokuapp.com",
+  "created": "2017-07-10",
+  "documentation-url": "https://github.com/leisureworldcolchester/opendata",
+  "rpde-version": "0.2.3",
+  "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
+  "license-url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-text": "Leisure World Colchester",
+  "attribution-url": "https://leisureworldcolchester.github.io/",
+  "mailchimp": "",
+  "copyright-notice": "",
+  "odi-certificate-number": "",
+  "publish": true
+ },
+ {
   "dataset-site-url": "https://lawntennisassociation.github.io/",
   "title": "LTA Participation Campaigns ",
   "description": "Session data from the LTA for participation campaigns ",
@@ -232,27 +277,6 @@
   "example-url": [
    "https://lawntennisassociation.github.io/opendata/example-courses.json"
   ]
- },
- {
-  "dataset-site-url": "https://leisureworldcolchester.github.io/",
-  "title": "Leisure World Colchester Sessions",
-  "description": "Session data from Leisure World Colchester",
-  "publisher-name": "Leisure World Colchester",
-  "publisher-url": "https://www.colchesterleisureworld.co.uk",
-  "keyword-1": "",
-  "keyword-2": "",
-  "data-url": "https://lw-colchester-openactive.herokuapp.com",
-  "created": "2017-07-10",
-  "documentation-url": "https://github.com/leisureworldcolchester/opendata",
-  "rpde-version": "0.2.3",
-  "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
-  "license-url": "https://creativecommons.org/licenses/by/4.0/",
-  "attribution-text": "Leisure World Colchester",
-  "attribution-url": "https://leisureworldcolchester.github.io/",
-  "mailchimp": "",
-  "copyright-notice": "",
-  "odi-certificate-number": "",
-  "publish": true
  },
  {
   "dataset-site-url": "http://data.opensessions.io/",
@@ -397,30 +421,6 @@
   "attribution-text": "Vision Redbridge Culture & Leisure",
   "attribution-url": "https://visionrcl.github.io/",
   "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us16.list-manage.com\",\"uuid\":\"3b3ede02bfe0a96ad0cc6f22d\",\"lid\":\"e02e478bb8\"}) })",
-  "copyright-notice": "",
-  "odi-certificate-number": "",
-  "publish": true,
-  "example-url": [
-   "https://imin-ltd.github.io/gladstone-adapter-documentation/example.json"
-  ]
- },
- {
-  "dataset-site-url": "http://data.activenewham.org.uk/",
-  "title": "activeNewham Sessions",
-  "description": "Session data from the activenewham.org.uk site",
-  "publisher-name": "activeNewham",
-  "publisher-url": "https://www.activenewham.org.uk",
-  "keyword-1": "Newham",
-  "keyword-2": "Leisure",
-  "data-url": "https://activenewham-openactive.herokuapp.com",
-  "created": "2017-02-17",
-  "documentation-url": "https://github.com/activenewham/opendata",
-  "rpde-version": "0.2.3",
-  "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
-  "license-url": "https://creativecommons.org/licenses/by/4.0/",
-  "attribution-text": "activeNewham",
-  "attribution-url": "http://data.activenewham.org.uk/",
-  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us15.list-manage.com\",\"uuid\":\"139e08e5077eeef9048052685\",\"lid\":\"5eb5e5184a\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
   "publish": true,
