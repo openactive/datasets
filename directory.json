@@ -150,6 +150,27 @@
   "publish": true
  },
  {
+  "dataset-site-url": "http://data.britishtriathlon.org/",
+  "title": "British Triathlon Events",
+  "description": "Event data from britishtriathlon.org",
+  "publisher-name": "British Triathlon",
+  "publisher-url": "https://www.britishtriathlon.org",
+  "keyword-1": "Triathlon",
+  "keyword-2": "GO TRI",
+  "data-url": "https://api.britishtriathlon.org/openactive/v1/events",
+  "created": "2018-07-04",
+  "documentation-url": "https://github.com/britishtriathlon/openactive",
+  "rpde-version": "1.0",
+  "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
+  "license-url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-text": "British Triathlon",
+  "attribution-url": "http://data.britishtriathlon.org/",
+  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us1.list-manage.com\",\"uuid\":\"b16546c4008c5b51344988c82\",\"lid\":\"9463b667d0\"}) })",
+  "copyright-notice": "",
+  "odi-certificate-number": "",
+  "publish": true
+ },
+ {
   "dataset-site-url": "https://data.flexidigital.co.uk/",
   "title": "Flexi Digital Open Session Data",
   "description": "Session data from the flexiapp.co.uk site",
