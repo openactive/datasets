@@ -1,5 +1,26 @@
 [
  {
+  "dataset-site-url": "https://1610active.github.io/",
+  "title": "1610 Active - Active Kidz ",
+  "description": "Session data from the 1610.org.uk",
+  "publisher-name": "1610 Active",
+  "publisher-url": "https://1610.org.uk",
+  "keyword-1": "Kids Activities ",
+  "keyword-2": "1610 ",
+  "data-url": "https://onlinebooking.1610.org.uk/openactive/api/sessions",
+  "created": "2018-07-25",
+  "documentation-url": "https://github.com/1610active/opendata",
+  "rpde-version": "1.1",
+  "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
+  "license-url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-text": "1610 Active ",
+  "attribution-url": "https://1610active.github.io/",
+  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us8.list-manage.com\",\"uuid\":\"43b506a86abf7d1911820bea1\",\"lid\":\"7dfb5b1b63\"}) })",
+  "copyright-notice": "",
+  "odi-certificate-number": "",
+  "publish": true
+ },
+ {
   "dataset-site-url": "http://data.activenewham.org.uk/",
   "title": "activeNewham Sessions",
   "description": "Session data from the activenewham.org.uk site",
