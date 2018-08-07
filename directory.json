@@ -21,6 +21,27 @@
   "publish": true
  },
  {
+  "dataset-site-url": "https://activelifeltd.github.io/",
+  "title": "Active Life's local activities",
+  "description": "Session data from the Active Life site",
+  "publisher-name": "Active Life Ltd",
+  "publisher-url": "https://www.activelifeltd.co.uk",
+  "keyword-1": "Fitness",
+  "keyword-2": "Canterbury District",
+  "data-url": "https://online.activelifeltd.co.uk/openactive/api/sessions",
+  "created": "2018-08-01",
+  "documentation-url": "https://github.com/activelifeltd/opendata",
+  "rpde-version": "1.0",
+  "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
+  "license-url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-text": "Active life Ltd",
+  "attribution-url": "https://activelifeltd.github.io/",
+  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us13.list-manage.com\",\"uuid\":\"9e6648557f84731796a4ac873\",\"lid\":\"2167da53bb\"}) })",
+  "copyright-notice": "",
+  "odi-certificate-number": "",
+  "publish": true
+ },
+ {
   "dataset-site-url": "http://data.activenewham.org.uk/",
   "title": "activeNewham Sessions",
   "description": "Session data from the activenewham.org.uk site",
