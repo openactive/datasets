@@ -538,7 +538,7 @@
   "publisher-url": "http://www.vision-rcl.org.uk/",
   "keyword-1": "Culture",
   "keyword-2": "Leisure",
-  "data-url": "https://visionrcl.leisurecloud.net/openactive ",
+  "data-url": "https://visionrcl.leisurecloud.net/openactive/api/sessions",
   "created": "2017-07-10",
   "documentation-url": "https://github.com/visionrcl/opendata",
   "rpde-version": "1.0",
@@ -549,9 +549,6 @@
   "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us16.list-manage.com\",\"uuid\":\"3b3ede02bfe0a96ad0cc6f22d\",\"lid\":\"e02e478bb8\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
-  "publish": true,
-  "example-url": [
-   "https://imin-ltd.github.io/gladstone-adapter-documentation/example.json"
-  ]
+  "publish": true
  }
 ]
