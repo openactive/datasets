@@ -275,27 +275,27 @@
   "odi-certificate-number": "",
   "publish": true
  },
- {
-  "dataset-site-url": "http://data.fusion-lifestyle.com/",
+{
+  "dataset-site-url": "https://fusionopendata.fusion-lifestyle.com/OpenActive/",
   "title": "Fusion Lifestyle Sessions",
   "description": "Session data from the www.fusion-lifestyle.com site",
   "publisher-name": "Fusion Lifestyle",
   "publisher-url": "http://www.fusion-lifestyle.com/",
   "keyword-1": "Leisure",
   "keyword-2": "Pool",
-  "data-url": "https://fusion-lifestyle-openactive.azurewebsites.net/api/sessions",
+  "data-url": "https://opendata.leisurecloud.live/api/feeds/fusion-lifestyle-live-session-series",
   "created": "2017-02-28",
   "documentation-url": "https://github.com/fusion-lifestyle/opendata",
-  "rpde-version": "0.2.3",
+  "rpde-version": "1.0.0",
   "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
   "license-url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution-text": "Fusion Lifestyle",
-  "attribution-url": "http://data.fusion-lifestyle.com",
+  "attribution-url": "https://fusionopendata.fusion-lifestyle.com/OpenActive/",
   "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us15.list-manage.com\",\"uuid\":\"ae2620c8f0c5efc8c20d3aea7\",\"lid\":\"a42bbdedba\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
   "publish": true
- },
+},
  {
   "dataset-site-url": "http://data.gomammoth.co.uk/",
   "title": "GO Mammoth Sports and Fitness Activities",
