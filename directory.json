@@ -1,13 +1,13 @@
 [
  {
-  "dataset-site-url": "https://onlinebooking.1610.org.uk/OpenActive/",
+  "dataset-site-url": "https://1610active.github.io/",
   "title": "1610 Active - Active Kidz ",
   "description": "Session data from the 1610.org.uk",
   "publisher-name": "1610 Active",
   "publisher-url": "https://1610.org.uk",
   "keyword-1": "Kids Activities ",
   "keyword-2": "1610 ",
-  "data-url": "https://opendata.leisurecloud.live/api/feeds/1610-live-session-series",
+  "data-url": "https://onlinebooking.1610.org.uk/openactive/api/sessions",
   "created": "2018-07-25",
   "documentation-url": "https://github.com/1610active/opendata",
   "rpde-version": "1.1",
@@ -21,14 +21,14 @@
   "publish": true
  },
  {
-  "dataset-site-url": "http://data.activenewham.org.uk/",
+  "dataset-site-url": "https://api.activenewham.org.uk/OpenActive/",
   "title": "activeNewham Sessions",
   "description": "Session data from the activenewham.org.uk site",
   "publisher-name": "activeNewham",
   "publisher-url": "https://www.activenewham.org.uk",
   "keyword-1": "Newham",
   "keyword-2": "Leisure",
-  "data-url": "https://activenewham-openactive.herokuapp.com",
+  "data-url": "https://opendata.leisurecloud.live/api/feeds/ActiveNewham-live-live-session-series",
   "created": "2017-02-17",
   "documentation-url": "https://github.com/activenewham/opendata",
   "rpde-version": "0.2.3",
@@ -42,7 +42,8 @@
   "publish": true,
   "example-url": [
    "https://imin-ltd.github.io/gladstone-adapter-documentation/example.json"
-  ]
+  ],
+  "redirect": true
  },
  {
   "dataset-site-url": "https://makesweat.github.io/",
@@ -505,48 +506,6 @@
   "attribution-text": "Vision Redbridge Culture & Leisure",
   "attribution-url": "https://visionrcl.github.io/",
   "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us16.list-manage.com\",\"uuid\":\"3b3ede02bfe0a96ad0cc6f22d\",\"lid\":\"e02e478bb8\"}) })",
-  "copyright-notice": "",
-  "odi-certificate-number": "",
-  "publish": true
- },
- {
-  "dataset-site-url": "http://data.emduk.org/",
-  "title": "EMD UK Group Exercise Session Data",
-  "description": "Session data from EMD UK instructor class portals (opt in only)",
-  "publisher-name": "EMD UK",
-  "publisher-url": "https://www.emduk.org",
-  "keyword-1": "Fitness classes",
-  "keyword-2": "Group Exercise",
-  "data-url": "https://www.classfinder.org.uk/api/public/classes",
-  "created": "2018-09-28",
-  "documentation-url": "https://github.com/emduk/opendata",
-  "rpde-version": "2.0",
-  "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
-  "license-url": "https://creativecommons.org/licenses/by/4.0/",
-  "attribution-text": "EMD UK Class Finder",
-  "attribution-url": "http://data.emduk.org/",
-  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us19.list-manage.com\",\"uuid\":\"288411dd77c4e051a0424956b\",\"lid\":\"2b14e6e5af\"}) })",
-  "copyright-notice": "",
-  "odi-certificate-number": "",
-  "publish": true
- },
- {
-  "dataset-site-url": "https://openactive.upshot.org.uk/",
-  "title": "Upshot Activities and Sessions",
-  "description": "Public session data from the Upshot system",
-  "publisher-name": "Upshot",
-  "publisher-url": "http://upshot.org.uk/",
-  "keyword-1": "Manage",
-  "keyword-2": "Monitor",
-  "data-url": "https://app.upshot.org.uk/api/v0/openactive/v1.0/",
-  "created": "2016-09-23",
-  "documentation-url": "https://github.com/upshot-oa/opendata",
-  "rpde-version": "1.0",
-  "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
-  "license-url": "https://creativecommons.org/licenses/by/4.0/",
-  "attribution-text": "Upshot",
-  "attribution-url": "https://openactive.upshot.org.uk/",
-  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us13.list-manage.com\",\"uuid\":\"9e6648557f84731796a4ac873\",\"lid\":\"2167da53bb\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
   "publish": true
