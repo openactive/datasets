@@ -176,7 +176,7 @@
   "publisher-url": "https://www.everyoneactive.com",
   "keyword-1": "Activities",
   "keyword-2": "Fitness Classes",
-  "data-url": "https://opendata.leisurecloud.live/api/feeds/EveryoneActive-live-session-series",
+  "data-url": "https://opendata.leisurecloud.live/api/feeds/EveryoneActiveSLM-live-session-series",
   "created": "2014-07-17",
   "documentation-url": "https://github.com/SportsAndLeisureManagement/opendata",
   "rpde-version": "1.0",
