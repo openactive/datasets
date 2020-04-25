@@ -169,28 +169,6 @@
   "publish": true
  },
  {
-  "dataset-site-url": "https://data.everyoneactive.com/OpenActive/",
-  "title": "Everyone Active Activities",
-  "description": "Everyone Active Activities for online booking",
-  "publisher-name": "Everyone Active - Sports and Leisure Management LTD",
-  "publisher-url": "https://www.everyoneactive.com",
-  "keyword-1": "Activities",
-  "keyword-2": "Fitness Classes",
-  "data-url": "https://opendata.leisurecloud.live/api/feeds/EveryoneActiveSLM-live-session-series",
-  "created": "2014-07-17",
-  "documentation-url": "https://github.com/SportsAndLeisureManagement/opendata",
-  "rpde-version": "1.0",
-  "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
-  "license-url": "https://creativecommons.org/licenses/by/4.0/",
-  "attribution-text": "Everyone Active",
-  "attribution-url": "https://data.everyoneactive.com/OpenActive/",
-  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us18.list-manage.com\",\"uuid\":\"59bad70b33864a9d129917a60\",\"lid\":\"c7687ef057\"}) })",
-  "copyright-notice": "",
-  "odi-certificate-number": "",
-  "publish": true,
-  "redirect": true
- },
- {
   "dataset-site-url": "http://data.gomammoth.co.uk/",
   "title": "GO Mammoth Sports and Fitness Activities",
   "description": "Leagues and classes from the gomammoth.co.uk site",
