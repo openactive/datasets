@@ -299,7 +299,7 @@
   "redirect": true
  },
  {
-  "dataset-site-url": "http://data.opensessions.io/",
+  "dataset-site-url": "https://opensessions.io/openactive",
   "title": "Open Sessions",
   "description": "Session data from the Open Sessions site",
   "publisher-name": "Open Sessions",
@@ -313,11 +313,12 @@
   "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
   "license-url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution-text": "Open Sessions",
-  "attribution-url": "https://opensessions-oa.github.io/",
+  "attribution-url": "https://opensessions.io/openactive",
   "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us8.list-manage.com\",\"uuid\":\"1aae671004c338bff2eacfa65\",\"lid\":\"99a067fa45\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
-  "publish": true
+  "publish": true,
+  "redirect": true
  },
  {
   "dataset-site-url": "https://ourparks.org.uk/openactive",
