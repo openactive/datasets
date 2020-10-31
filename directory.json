@@ -22,27 +22,6 @@
   "redirect": true
  },
  {
-  "dataset-site-url": "https://actio-site.github.io/",
-  "title": "Actio Sessions and Activities",
-  "description": "Near real-time availability and rich descriptions of the sessions and facilities available from Actio",
-  "publisher-name": "Actio",
-  "publisher-url": "https://myredboxstudio.com/actiodev",
-  "keyword-1": "Sessions, Facilities, Activities, Sports, Physical Activity, OpenActive",
-  "keyword-2": "",
-  "data-url": "http://api.myredboxstudio.com/actiodev/index.php/useractivities/apicalltest",
-  "created": "2020-07-30",
-  "documentation-url": "https://github.com/actio-site/opendata",
-  "rpde-version": "1.0",
-  "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
-  "license-url": "https://creativecommons.org/licenses/by/4.0/",
-  "attribution-text": "Actio Activity",
-  "attribution-url": "https://actio-site.github.io/",
-  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us13.list-manage.com\",\"uuid\":\"9e6648557f84731796a4ac873\",\"lid\":\"2167da53bb\"}) })",
-  "copyright-notice": "",
-  "odi-certificate-number": "",
-  "publish": true
- },
- {
   "dataset-site-url": "https://makesweat.github.io/",
   "title": "All Makesweat sessions",
   "description": "Session data from makesweat.com",
