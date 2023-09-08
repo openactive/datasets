@@ -1,3 +1,3 @@
-# Directory of datasets published via OpenActive
+# THIS DIRECTORY IS NOW DEPRECATED
 
-The OpenActive dataset directory is available as [open data](https://www.openactive.io/datasets/directory.json).
+The now-deprecated [dataset-site-generator](https://github.com/openactive/dataset-site-generator) published a list of its datasets to this repository, which used to be available at `https://www.openactive.io/datasets/directory.json`.
